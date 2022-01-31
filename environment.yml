@@ -1,0 +1,10 @@
+name: odm_2021
+channels:
+  - defaults
+dependencies:
+  - python=3
+  - ipykernel
+  - pandas
+  - scikit-learn
+  - seaborn
+  - cvxpy
